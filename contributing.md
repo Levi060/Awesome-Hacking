@@ -10,7 +10,6 @@ This resource was made by the developers and hackers alike! We appreciate and re
 - [To remove from the list](#to-remove-from-the-list)
 - [Contributors](#contributors)
 
-## Adding to the List
 
 - Please add the content to the `README.md` file and make sure that the edited list is in alphabetical order.
 - Submit a pull request.
